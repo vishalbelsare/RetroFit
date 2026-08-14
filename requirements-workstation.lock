@@ -1,0 +1,10 @@
+# Qualified isolated Analytics Workstation capability environment.
+# Install RetroFit from its immutable package source separately with --no-deps.
+catboost==1.2.8
+lightgbm==4.6.0
+xgboost==3.1.1
+numpy==2.2.6
+polars==1.35.2
+pyarrow==21.0.0
+scikit-learn==1.7.2
+scipy==1.16.3

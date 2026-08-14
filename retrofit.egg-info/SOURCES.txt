@@ -8,6 +8,7 @@ setup.py
 retrofit/MachineLearning.py
 retrofit/__init__.py
 retrofit/reporting.py
+retrofit/supervised_reference.py
 retrofit/utils.py
 retrofit.egg-info/PKG-INFO
 retrofit.egg-info/SOURCES.txt
@@ -35,3 +36,4 @@ retrofit/images/Shap_Summary.PNG
 retrofit/images/Threshold_Plot.PNG
 retrofit/templates/__init__.py
 retrofit/templates/model_insights_regression.html
+tests/test_supervised_reference.py
